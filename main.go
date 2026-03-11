@@ -1,9 +1,9 @@
 package main
 
 func main() {
-	helloName()
+	helloPerson()
 }
 
-func helloName() string {
+func helloPerson() string {
 	return "привет"
 }
